@@ -2,7 +2,7 @@
 
 由Black Forests Labs研发的Flux.1，这款创新的图像生成模型自发布以来迅速走红全球。它能够根据文本提示创造令人惊艳的视觉效果，激发了全球艺术家、设计师和创意爱好者的无限创意。Flux.1为探索视觉艺术的新领域提供了强大工具。
 
-在本文中，我们将分享9组效果出色的提示词，一展Flux.1模型的多功能性和强大功能。 以下是这些提示词的示例，你可在 [Flux-1.com | Free way to use Flux.1 family of models. ](Flux-1.com)上免费体验Flux.1模型。
+在本文中，我们将分享9组效果出色的提示词，一展Flux.1模型的多功能性和强大功能。 以下是这些提示词的示例，你可在 [Flux-1.com | Free way to use Flux.1 family of models. ](https://flux-1.com)上免费体验Flux.1模型。
 
 ![image](https://github.com/user-attachments/assets/0753484b-c353-42da-855d-1b2cc56ab753)
 
@@ -85,7 +85,7 @@
 
 
 
-***通过本篇文章，我们简要介绍了Flux.1的9大热门提示词。如果你也想尝试这些提示词，可以点击[Flux-1.com | Free way to use Flux.1 family of models.](Flux-1.com)免费体验Flux.1模型哦。***
+***通过本篇文章，我们简要介绍了Flux.1的9大热门提示词。如果你也想尝试这些提示词，可以点击[Flux-1.com | Free way to use Flux.1 family of models.](https://flux-1.com)免费体验Flux.1模型哦。***
 
 ![image](https://github.com/user-attachments/assets/40b3d373-2c85-4fdf-a3f7-6dbde3d83d3b)
 
